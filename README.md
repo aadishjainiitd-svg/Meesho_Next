@@ -4,7 +4,7 @@
 
 **Turning creator proof into more confident BPC commerce**
 
-## 🚀 Live Prototype
+## Live Prototype
 
 **[Open Meesho Next →](https://meesho-next-n14p-seven.vercel.app/)**
 
@@ -26,7 +26,7 @@ Matches relevant creator proof to buyers based on their need, suitability, langu
 
 ## Prototype
 
-### 🛍️ Shopper
+### Shopper
 
 - Personalised BPC discovery
 - Product filters and sorting
@@ -37,7 +37,7 @@ Matches relevant creator proof to buyers based on their need, suitability, langu
 - Why this creator?
 - Same product, different proof
 
-### 🎥 Creator
+### Creator
 
 - Recommended BPC products
 - Creator × Product Fit
@@ -48,7 +48,7 @@ Matches relevant creator proof to buyers based on their need, suitability, langu
 - Content performance analytics
 - Creator earnings
 
-### 🏷️ Brand
+### Brand
 
 - Brand-funded Trial Stock
 - Creator selection and fit
@@ -56,7 +56,7 @@ Matches relevant creator proof to buyers based on their need, suitability, langu
 - Campaign performance
 - NMV and creator performance tracking
 
-### 📊 Pilot Dashboard
+### Pilot Dashboard
 
 - 2×2 factorial experiment
 - NMV driver tree
@@ -167,7 +167,7 @@ to:
 
 ## Live Prototype
 
-🌐 **https://meesho-next-n14p-seven.vercel.app/**
+ **https://meesho-next-n14p-seven.vercel.app/**
 
 ---
 
