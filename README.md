@@ -4,12 +4,11 @@
 
 **Turning creator proof into more confident BPC commerce**
 
-> [!IMPORTANT]
-> ## 🚀 Live Prototype
-> 
-> ### **[Open Meesho Next →](https://meesho-next-n14p-seven.vercel.app/)**
-> 
-> Explore the complete **Shopper · Creator · Brand · Pilot Dashboard** experience.
+## 🚀 Live Prototype
+
+**[Open Meesho Next →](https://meesho-next-n14p-seven.vercel.app/)**
+
+Shopper · Creator · Brand · Pilot Dashboard
 
 ## The Idea
 
